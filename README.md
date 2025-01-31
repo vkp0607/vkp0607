@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Deepak (@vkp0607)  
+## 👋 Hi, I’m Karthikeyan (@vkp0607)  
 🚀 Aspiring Full-Stack Developer | Passionate about building scalable applications  
 
 ### 👀 Interests  
@@ -19,7 +19,7 @@
 - API development & integrations  
 
 ### 📫 How to Reach Me  
-- LinkedIn: [Your LinkedIn Profile]  
+- LinkedIn: [https://www.linkedin.com/in/karthikeyan-pandiaraj-957541133?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 - GitHub: [github.com/vkp0607](https://github.com/vkp0607)  
 - Email: [jprk711@gmail.com]  
 
